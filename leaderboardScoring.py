@@ -6,7 +6,6 @@ players = {
 
 def scoring():
     print(players)
-    print("[SYSTEM] Active players and score matrix loaded...")
     pluzorhuzz = str(input("[INPUT] Select operation >> [1] Decrement Score | [2] Increment Score : "))
     playerchoice = str(input("[TARGET] Enter player ID : "))
     ptschoice = int(input("[VALUE] Inject point value : "))
