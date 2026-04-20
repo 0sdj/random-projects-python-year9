@@ -1,4 +1,4 @@
-Login Details Code
+#Login Details Code
 key = input("The activation key is 978254872 ")
 while key not in ("Thanks", "Ok", "OK", "THANKS", "ok"):
     key = input("Say Thanks or Ok at least -some people these days, AI would never- : ")
